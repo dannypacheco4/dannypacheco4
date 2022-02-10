@@ -1,6 +1,6 @@
 ### Hi I'm Danny
-[![](https://img.shields.io/badge/LinkedIn-fangzway-blue)](https://www.linkedin.com/in/danny--pacheco/)
-[![](https://img.shields.io/badge/Gmail-fang.zway%40gmail.com-red)](mailto:dnpchc4@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-danny--pacheco-blue)](https://www.linkedin.com/in/danny--pacheco/)
+[![](https://img.shields.io/badge/Gmail-dnpchc4%40gmail.com-red)](mailto:dnpchc4@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##About
