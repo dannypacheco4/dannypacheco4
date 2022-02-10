@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/Gmail-dnpchc4%40gmail.com-red)](mailto:dnpchc4@gmail.com)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-##About
+### About
 -  **Languages :** JavaScript, Python
 -  **Hobbies :** Muay Thai 🥊, Gaming 🎮, and Weight Training 🏋🏽‍♂️
 -  **Fact :** I'm always up for a challenge
