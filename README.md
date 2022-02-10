@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ##About
-**Languages :** JavaScript, Python
-**Hobbies :** Muay Thai 🥊, Gaming 🎮, and Weight Training 🏋🏽‍♂️
-**Fact :** I'm always up for a challenge
+-  **Languages :** JavaScript, Python
+-  **Hobbies :** Muay Thai 🥊, Gaming 🎮, and Weight Training 🏋🏽‍♂️
+-  **Fact :** I'm always up for a challenge
 
